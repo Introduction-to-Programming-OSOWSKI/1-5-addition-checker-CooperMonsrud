@@ -1,6 +1,6 @@
 def addCheck(x, y, z):
 
-    if addCheck(x + y == z):
+    if addCheckx + y == z:
         return True
 
     else:
